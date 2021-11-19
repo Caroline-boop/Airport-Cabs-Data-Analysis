@@ -1,0 +1,1 @@
+The simpliest Python Numpy Project Practice analysing defferent parameters of the dataset in csv format.
